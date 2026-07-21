@@ -1,0 +1,7 @@
+C:\Users\student\Desktop\MJ SOLANKI .NET\LAB_5\bin\Debug\LAB_5.exe.config
+C:\Users\student\Desktop\MJ SOLANKI .NET\LAB_5\bin\Debug\LAB_5.exe
+C:\Users\student\Desktop\MJ SOLANKI .NET\LAB_5\bin\Debug\LAB_5.pdb
+C:\Users\student\Desktop\MJ SOLANKI .NET\LAB_5\obj\Debug\LAB_5.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\MJ SOLANKI .NET\LAB_5\obj\Debug\LAB_5.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\MJ SOLANKI .NET\LAB_5\obj\Debug\LAB_5.exe
+C:\Users\student\Desktop\MJ SOLANKI .NET\LAB_5\obj\Debug\LAB_5.pdb
